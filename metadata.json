@@ -1,0 +1,7 @@
+{
+  "name": "Remix Tarim-Meteoroloji-AI-Android-APK",
+  "description": "Imported from GitHub: cengiz718/Tarim-Meteoroloji-AI-Android-APK",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

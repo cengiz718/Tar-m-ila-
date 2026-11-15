@@ -1,0 +1,12 @@
+{
+  "name": "tarim-meteoroloji-ai",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Tarım Meteoroloji AI Android APK & Cloud Run Companion Portal",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node -e \"console.log('Tarim Meteoroloji AI web portal build ready')\"",
+    "start": "node server.js",
+    "lint": "node --check server.js"
+  }
+}
